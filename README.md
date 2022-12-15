@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brian419
+- 👋 Hi, I’m @brian419. My name is Jeongbin Son.
 - 👀 I’m interested in a lot of areas of coding such as app development and machine learning, etc. 
 - 🌱 I’m currently learning how to build IOS applications using SwiftUI and Xcode. 
 - 💞️ I’m looking to work on several projects that can showcase my skills in SwiftUI. 
