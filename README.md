@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @brian419. My name is Jeongbin Son.
-- 👀 I’m interested in a lot of areas of coding such as app development and machine learning, etc. 
-- 🌱 I’m currently learning how to build IOS applications using SwiftUI and Xcode. 
-- 💞️ I’m looking to work on several projects that can showcase my skills in SwiftUI. 
-- 📫 You can reach me at json10@crimson.ua.edu for any reasons!
+- Hi, I’m @brian419 or Jeongbin Son. 
+- I’m interested in a lot of areas of coding such as app development and web development, etc. 
+- As such, I am learning how to build IOS applications using SwiftUI and Xcode and Three.js to create interactive websites
+- To develop my skillsets, I focus on working on projects that can showcase my skills in SwiftUI, Three.js / Javascript, C and C++.
+- 📫 You can reach me at 'json10@crimson.ua.edu'! 
 
 <!---
 brian419/brian419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
