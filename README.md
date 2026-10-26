@@ -1,33 +1,20 @@
-# Hi, I'm Jeongbin Son
+# Jeongbin Son
 
-I'm a computer science graduate interested in building software that solves practical and technically challenging problems.
+I'm a computer science graduate from the University of Alabama with startup experience in software engineering. My background includes Python development, React and TypeScript, API integration, databases, and internal business applications.
 
-My interests are still evolving, but I am currently exploring:
+I'm interested in expanding my experience across software engineering, backend development, artificial intelligence, automation, and software reliability. I use GitHub to share my work, document what I'm learning, and explore different areas of computer science.
 
-* Artificial intelligence and machine learning
-* Automation and developer tools
-* Open-source software
-* Systems, application, and backend development
-* Projects that strengthen my computer science fundamentals
+## Technical Skills
 
-I previously focused heavily on web development using JavaScript, TypeScript, and React. Going forward, I want to expand beyond conventional frontend projects and work on software that requires deeper problem-solving, experimentation, and technical understanding.
+**Languages:** Python, TypeScript, JavaScript, C++, HTML/CSS
 
-I use GitHub to document what I am learning, build projects, contribute where I can, and explore the areas of computer science that I may want to pursue long term.
+**Frameworks & Libraries:** React, Next.js, Express, Dash, TanStack Query, pytest, Tkinter
 
-## Technologies
+**Databases:** PostgreSQL, MySQL, MongoDB, Amazon RDS
 
-`Java` `Python` `JavaScript` `TypeScript` `React` `Git` `GitHub`
-
-## Current Goals
-
-* Build practical AI and automation projects that can run on consumer hardware
-* Learn how larger and more mature software projects are designed
-* Begin contributing to open-source projects
-* Improve my understanding of algorithms, systems, software architecture, and machine learning
-* Continue experimenting until I find the areas of software engineering I want to specialize in
+**Tools & Platforms:** Node.js, Git, GitHub, Ollama, Ruff
 
 ## Contact
 
-* [LinkedIn](https://www.linkedin.com/in/jeongbin-son/)
-* Email: [json10@crimson.ua.edu](mailto:json10@crimson.ua.edu)
-
+- [LinkedIn](https://www.linkedin.com/in/jeongbin-son/)
+- Email: [ihyahoojb@icloud.com](mailto:ihyahoojb@icloud.com)
